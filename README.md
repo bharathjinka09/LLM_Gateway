@@ -1,7 +1,7 @@
-🚀 LLM Gateway — Build With LiteLLM
-LiteLLM → the most popular open-source LLM gateway (supports 100+ providers)
+# 🚀 LLM Gateway — Build With LiteLLM
+## LiteLLM → the most popular open-source LLM gateway (supports 100+ providers)
 
-```
+
 # LLM Gateway Cost Example
 
 A minimal Python example using [LiteLLM](https://github.com/BerriAI/litellm) to call `gpt-4o-mini`, display the response, and calculate the cost of the request in USD.
@@ -75,4 +75,4 @@ Cost:         $0.00001350
 
 - Keep your API key private. Do not commit it to source control.
 - The displayed cost is for the individual completion and may vary between runs.
-```
+
